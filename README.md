@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @podium1
-- 👀 I’m interested in developing a full stack developer carrier
+- 👀 I’m interested in developing a full stack developer career
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on building simple presentation websistes
 - 📫 How to reach me: dan29patru@gmail.com
